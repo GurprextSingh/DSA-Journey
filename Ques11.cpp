@@ -11,7 +11,7 @@ int main()
     cin >> n;
     int arr[n];
 
-    cout << "Enter " << n << "values: " << endl;
+    cout << "Enter " << n << " values: " << endl;
     for (int i = 0; i < n; i++)
     {
         cin >> arr[i];
